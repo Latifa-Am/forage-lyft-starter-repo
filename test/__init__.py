@@ -1,0 +1,2 @@
+# This is going to be a unit tests for the previous test. However, thi time we'll be breaking it into two files based on the new architecture.
+# Since we have two modules battery and engine, then we'll be ceating two additional modules: test_battery and test_engine.  
