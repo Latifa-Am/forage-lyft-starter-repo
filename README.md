@@ -1,4 +1,4 @@
 # Lyft Virtual Experience Program
-Task 01: Software Architecture
-Task 02: Refactoring
-Task 03: Unit Testing
+<li><i>Task 01:</i> Software Architecture </li></br>
+<li><i>Task 02:</i> Refactoring </li></br>
+<li><i>Task 03:</i> Unit Testing</li>
